@@ -1,0 +1,17 @@
+Tic-Tac-Toe
+Overview
+This program uses c# to create a tic-tac-toe game from the console.
+Wins are detected and tracked for each player
+
+Software Demo Video
+https://youtu.be/5QRbqiodPAs
+
+Development Environment
+c#
+
+Useful Websites
+https://www.w3schools.com/cs/index.php
+
+Future Work
+Add the abliity to play on a larger board such as a 4x4 or 5x5 with the ability to detect and track wins.
+Allow for multiple players
